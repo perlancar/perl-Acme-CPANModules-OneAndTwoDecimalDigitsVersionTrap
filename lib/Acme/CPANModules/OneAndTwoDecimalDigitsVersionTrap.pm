@@ -6,7 +6,7 @@ package Acme::CPANModules::OneAndTwoDecimalDigitsVersionTrap;
 # VERSION
 
 our $LIST = {
-    summary => 'Chronicles CPAN distributions which have been trapped by the one- and two decimal digits versioning scheme',
+    summary => 'Chronicle CPAN distributions which have been trapped by the one- and two decimal digits versioning scheme',
     description => <<'_',
 
 The x.y and x.yy versioning scheme used in Perl distribution has a trap: when
