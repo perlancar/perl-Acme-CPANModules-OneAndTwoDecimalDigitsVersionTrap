@@ -1,4 +1,4 @@
-package Acme::CPANModules::OneAndTwoDecimalDigitsVersionTrp;
+package Acme::CPANModules::OneAndTwoDecimalDigitsVersionTrap;
 
 # AUTHORITY
 # DATE
